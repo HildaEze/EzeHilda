@@ -1,4 +1,4 @@
-# EzeHilda
+# HildaEze
 My personal repository
 
 👋 Hi there! I'm Eze Hilda Chinaza, a passionate data analyst with a knack for extracting insights from complex datasets.
